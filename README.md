@@ -16,6 +16,7 @@ In a few years I planning to get a job similar to Junior Python Developer / Data
 
 
 ## How can you contact me:
-- https://www.linkedin.com/in/jakub-szuber-06602521a/
-- jszuber06@gmail.com
-- https://www.kaggle.com/jakubszuber
+- **My gmail:** jszuber06@gmail.com
+- **Other:**  <a href="https://www.linkedin.com/in/jakub-szuber-06602521a/">
+<img align="center" alt="JakubSzuber's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a><a href="https://www.kaggle.com/jakubszuber">
+<img align="center" alt="JakubSzuber's Kaggle" width="22px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/kaggle-logo.png" /></a>
