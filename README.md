@@ -1,9 +1,6 @@
 # Hi, my name is Jakub Szuber - Python coder
 
 ## About me:
-I've been programming for 4 years. during this time I got to know Python well, learned to work with GIT and learned a lot about programming and computer science. 
-In a few years I planning to get a job similar to Junior Python Developer / Data scientist. Furthermore, I can speak English at C1 level.
-
 - I have good knowladge of: `Python`, `Git`
 - I planning to learn: `SQl and postgreSQL`, `AWS`, `Django`, `Linux commands`, `Exel`, `Pandas`, `Docker` 
 - I’m currently working on: **my first big python project**
