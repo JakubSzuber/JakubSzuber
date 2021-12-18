@@ -9,9 +9,13 @@ In a few years I planning to get a job similar to Junior Python Developer / Data
 - I’m currently working on: **my first big python project**
 - I’m currently learning `SQL/PostgreSQL`
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubSzuber&show_icons=true&theme=gotham) <!--to change the color to white: true&theme=default-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubSzuber&show_icons=true&theme=gotham) 
+<!--to change the color to white: theme=default-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubSzuber&layout=compact)](https://github.com/JakubSzuber/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JakubSzuber&repo=JakubSzuber&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## How can you contact me:
 - https://www.linkedin.com/in/jakub-szuber-06602521a/
