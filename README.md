@@ -17,3 +17,6 @@
 - **Other:**  <a href="https://www.linkedin.com/in/jakub-szuber-06602521a/">
 <img align="center" alt="JakubSzuber's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a><a href="https://www.kaggle.com/jakubszuber">
 <img align="center" alt="JakubSzuber's Kaggle" width="22px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/kaggle-logo.png" /></a>
+
+## My portfolio:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JakubSzuber&repo=Score-Counter-Game&theme=gotham)](https://github.com/JakubSzuber/github-readme-stats)
