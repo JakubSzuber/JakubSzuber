@@ -19,4 +19,4 @@
 <img align="center" alt="JakubSzuber's Kaggle" width="22px" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/kaggle-logo.png" /></a>
 
 ## My portfolio:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JakubSzuber&repo=Score-Counter-Game&theme=gotham)](https://github.com/JakubSzuber/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JakubSzuber&repo=Score-Counter-Game&theme=gotham)](https://github.com/JakubSzuber/Score-Counter-Game)
