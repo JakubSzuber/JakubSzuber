@@ -20,4 +20,4 @@
 
 ## My portfolio:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JakubSzuber&repo=Score-Counter-Game&theme=gotham)](https://github.com/JakubSzuber/Score-Counter-Game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JakubSzuber&repo=Animal-Hotels-Analysis&theme=gotham)](https://github.com/JakubSzuber/Score-Counter-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JakubSzuber&repo=Animal-Hotels-Analysis&theme=gotham)](https://github.com/JakubSzuber/Animal-Hotels-Analysis)
