@@ -9,7 +9,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubSzuber&show_icons=true&theme=gotham) 
 <!--to change the color to white: theme=default-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubSzuber&layout=compact)](https://github.com/JakubSzuber/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubSzuber&layout=compact&theme=gotham)](https://github.com/JakubSzuber/github-readme-stats)
 
 
 ## How can you contact me:
