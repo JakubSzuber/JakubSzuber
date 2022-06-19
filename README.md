@@ -2,8 +2,8 @@
 
 ## About me:
 - I have good knowladge of: `Python`<img align="center" alt="My GitHub" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="max-width: 100%;">, `Git`<img align="center" alt="My GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" style="max-width: 100%;">, `PostgreSQL`<img align="center" alt="My GitHub" width="22px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" style="max-width: 100%;">
-- I planning to learn: `AWS`, `Linux`, `Jenkins`, `Ansible`, `terraform`
-- I’m currently working on: **my second big project (Python and PostgreSQL)**
+- I planning to learn: `AWS`, `Linux`, `Jenkins`, `Ansible`, `Terraform`
+- I’m currently working on: **my third big project (containerized web application)**
 - I’m currently learning `Docker`<img alt="My GitHub" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1_7FTxqyDmil8VzRFOI86aoeUkwJ5hsa-A&usqp=CAU" style="max-width: 100%;"> and `Kubernetes`<img align="center" alt="My GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" style="max-width: 100%;"> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubSzuber&show_icons=true&theme=gotham) 
