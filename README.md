@@ -11,7 +11,11 @@
 
 [![Top Langs](https://github-readme-stats-zeta-orcin.vercel.app/api/top-langs/?username=JakubSzuber&layout=compact&theme=gotham)](https://github.com/JakubSzuber/github-readme-stats)
 
-[![JakubSzuber's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JakubSzuber)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>Wakatime</summary>
+  <img alt="codesTackr's Github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@8abd9d33-3e2a-4daf-9617-3e1a9574a3c8&show_icons=true" />
+ 
+</details>
 
 ## How can you contact me:
 - **My gmail:** jszuber06@gmail.com
