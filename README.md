@@ -11,6 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubSzuber&layout=compact&theme=gotham)](https://github.com/JakubSzuber/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JakubSzuber)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How can you contact me:
 - **My gmail:** jszuber06@gmail.com
