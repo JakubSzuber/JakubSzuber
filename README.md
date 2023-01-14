@@ -6,12 +6,12 @@
 - I’m currently working on: **my third big project (containerized web application)**
 - I’m currently learning: `AWS` <img align="center" alt="My GitHub" width="22px" src="https://assets-global.website-files.com/602a97fb7ff89c083c49cc06/6246b1ccd1ed046cf04a228c_6c5ba19e1fcf-Logo.jpg" style="max-width: 100%;">
 
-![Anurag's GitHub stats](https://github-readme-stats-zeta-orcin.vercel.app/api?username=JakubSzuber&show_icons=true&theme=gotham) 
+![JakubSzuber's GitHub stats](https://github-readme-stats-zeta-orcin.vercel.app/api?username=JakubSzuber&show_icons=true&theme=gotham) 
 <!--to change the color to white: theme=default-->
 
 [![Top Langs](https://github-readme-stats-zeta-orcin.vercel.app/api/top-langs/?username=JakubSzuber&layout=compact&theme=gotham)](https://github.com/JakubSzuber/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats-zeta-orcin.vercel.app/api/wakatime?username=JakubSzuber)](https://github.com/anuraghazra/github-readme-stats)
+[![JakubSzuber's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JakubSzuber)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How can you contact me:
 - **My gmail:** jszuber06@gmail.com
