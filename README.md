@@ -6,12 +6,12 @@
 - I’m currently working on: **my third big project (containerized web application)**
 - I’m currently learning: `AWS` <img align="center" alt="My GitHub" width="22px" src="https://assets-global.website-files.com/602a97fb7ff89c083c49cc06/6246b1ccd1ed046cf04a228c_6c5ba19e1fcf-Logo.jpg" style="max-width: 100%;">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubSzuber&show_icons=true&theme=gotham) 
+![Anurag's GitHub stats](https://github-readme-stats-zeta-orcin.vercel.app/api?username=JakubSzuber&show_icons=true&theme=gotham) 
 <!--to change the color to white: theme=default-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubSzuber&layout=compact&theme=gotham)](https://github.com/JakubSzuber/github-readme-stats)
+[![Top Langs](https://github-readme-stats-zeta-orcin.vercel.app/api/top-langs/?username=JakubSzuber&layout=compact&theme=gotham)](https://github.com/JakubSzuber/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JakubSzuber)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats-zeta-orcin.vercel.app/api/wakatime?username=JakubSzuber)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How can you contact me:
 - **My gmail:** jszuber06@gmail.com
@@ -20,6 +20,6 @@
 <img align="center" alt="JakubSzuber's Kaggle" width="22px" src="https://www.kaggle.com/static/images/site-logo.svg" /></a>
 
 ## My portfolio:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JakubSzuber&repo=Local-Monuments-Website&theme=gotham)](https://github.com/JakubSzuber/Local-Monuments-Website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JakubSzuber&repo=Score-Counter-Game&theme=gotham)](https://github.com/JakubSzuber/Score-Counter-Game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JakubSzuber&repo=Animal-Hotels-Analysis&theme=gotham)](https://github.com/JakubSzuber/Animal-Hotels-Analysis)
+[![Readme Card](https://github-readme-stats-zeta-orcin.vercel.app/api/pin/?username=JakubSzuber&repo=Local-Monuments-Website&theme=gotham)](https://github.com/JakubSzuber/Local-Monuments-Website)
+[![Readme Card](https://github-readme-stats-zeta-orcin.vercel.app/api/pin/?username=JakubSzuber&repo=Score-Counter-Game&theme=gotham)](https://github.com/JakubSzuber/Score-Counter-Game)
+[![Readme Card](https://github-readme-stats-zeta-orcin.vercel.app/api/pin/?username=JakubSzuber&repo=Animal-Hotels-Analysis&theme=gotham)](https://github.com/JakubSzuber/Animal-Hotels-Analysis)
