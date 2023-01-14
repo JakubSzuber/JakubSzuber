@@ -13,7 +13,7 @@
 
 <details>
   <summary>Wakatime</summary>
-  <img alt="codesTackr's Github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@8abd9d33-3e2a-4daf-9617-3e1a9574a3c8&show_icons=true" />
+  <img alt="codesTackr's Github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@8abd9d33-3e2a-4daf-9617-3e1a9574a3c8&show_icons=true&range=all_time" />
  
 </details>
 
