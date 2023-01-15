@@ -6,6 +6,14 @@
 - I’m currently working on: **my third big project (containerized web application)**
 - I’m currently learning: `AWS` <img align="center" alt="My GitHub" width="22px" src="https://assets-global.website-files.com/602a97fb7ff89c083c49cc06/6246b1ccd1ed046cf04a228c_6c5ba19e1fcf-Logo.jpg" style="max-width: 100%;">
 
+
+
+[<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+
+
+
+
 ![JakubSzuber's GitHub stats](https://github-readme-stats-zeta-orcin.vercel.app/api?username=JakubSzuber&show_icons=true&theme=gotham) 
 <!--to change the color to white: theme=default-->
 
