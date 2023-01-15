@@ -7,7 +7,7 @@
 [<img align="center" alt="bash" width="36px" src="https://bashlogo.com/img/symbol/png/monochrome_light.png" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 - I planning to learn: <img align="center" alt="jenkins" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"> <img align="center" alt="ansible" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"> <img align="center" alt="terraform" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"> <img align="center" alt="prometheus" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"> <img align="center" alt="grafana" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
 - I’m currently learning: <img align="center" alt="AWS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-- I’m currently working on: **Containerized web application (Local-Monument-Website)**
+- I’m currently working on: **Containerized web application ([Local-Monuments-Website](https://github.com/JakubSzuber/Local-Monuments-Website))**
 
 ![JakubSzuber's GitHub stats](https://github-readme-stats-zeta-orcin.vercel.app/api?username=JakubSzuber&show_icons=true&theme=gotham) 
 <!--to change the color to white: theme=default-->
