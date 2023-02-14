@@ -56,14 +56,14 @@
 - I’m currently learning: <img align="center" alt="AWS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 - I’m currently working on: **Containerized web application ([Local-Monuments-Website](https://github.com/JakubSzuber/Local-Monuments-Website))**
 
-![JakubSzuber's GitHub stats](https://github-readme-stats-zeta-orcin.vercel.app/api?username=JakubSzuber&show_icons=true&theme=gotham) 
+![JakubSzuber's GitHub stats](https://github-readme-stats-git-patch-1-jakubszuber.vercel.app/api?username=JakubSzuber&show_icons=true&theme=gotham) 
 <!--to change the color to white: theme=default-->
 
-[![Top Langs](https://github-readme-stats-zeta-orcin.vercel.app/api/top-langs/?username=JakubSzuber&layout=compact&theme=gotham)](https://github.com/JakubSzuber/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-patch-1-jakubszuber.vercel.app/api/top-langs/?username=JakubSzuber&layout=compact&theme=gotham)](https://github.com/JakubSzuber/github-readme-stats)
 
 <details>
   <summary>Wakatime</summary>
-  <img alt="codesTackr's Github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@8abd9d33-3e2a-4daf-9617-3e1a9574a3c8&show_icons=true&range=all_time" />
+  <img alt="codesTackr's Github stats" src="https://github-readme-stats-git-patch-1-jakubszuber.vercel.app/api/wakatime?username=@8abd9d33-3e2a-4daf-9617-3e1a9574a3c8&show_icons=true&range=all_time" />
  
 </details>
 
@@ -74,6 +74,6 @@
 <img align="center" alt="JakubSzuber's Kaggle" width="22px" src="https://www.kaggle.com/static/images/site-logo.svg" /></a>
 
 ## My portfolio:
-[![Readme Card](https://github-readme-stats-zeta-orcin.vercel.app/api/pin/?username=JakubSzuber&repo=Local-Monuments-Website&theme=gotham)](https://github.com/JakubSzuber/Local-Monuments-Website)
-[![Readme Card](https://github-readme-stats-zeta-orcin.vercel.app/api/pin/?username=JakubSzuber&repo=Score-Counter-Game&theme=gotham)](https://github.com/JakubSzuber/Score-Counter-Game)
-[![Readme Card](https://github-readme-stats-zeta-orcin.vercel.app/api/pin/?username=JakubSzuber&repo=Animal-Hotels-Analysis&theme=gotham)](https://github.com/JakubSzuber/Animal-Hotels-Analysis)
+[![Readme Card](https://github-readme-stats-git-patch-1-jakubszuber.vercel.app/api/pin/?username=JakubSzuber&repo=Local-Monuments-Website&theme=gotham)](https://github.com/JakubSzuber/Local-Monuments-Website)
+[![Readme Card](https://github-readme-stats-git-patch-1-jakubszuber.vercel.app/api/pin/?username=JakubSzuber&repo=Score-Counter-Game&theme=gotham)](https://github.com/JakubSzuber/Score-Counter-Game)
+[![Readme Card](https://github-readme-stats-git-patch-1-jakubszuber.vercel.app/api/pin/?username=JakubSzuber&repo=Animal-Hotels-Analysis&theme=gotham)](https://github.com/JakubSzuber/Animal-Hotels-Analysis)
