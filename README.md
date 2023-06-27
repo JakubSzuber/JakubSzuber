@@ -68,12 +68,13 @@
 </details>
 
 ## How can you contact me:
-- **My gmail:** jszuber06@gmail.com
+- **My Gmail:** jszuber06@gmail.com
 - **Other:**  <a href="https://www.linkedin.com/in/jakub-szuber-06602521a/">
-<img align="center" alt="JakubSzuber's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a><a href="https://www.kaggle.com/jakubszuber">
+<img align="center" alt="JakubSzuber's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a><a href="https://www.kaggle.com/jakubszuber">
 <img align="center" alt="JakubSzuber's Kaggle" width="22px" src="https://www.kaggle.com/static/images/site-logo.svg" /></a>
 
 ## My portfolio:
+[![Readme Card](https://github-readme-stats-git-patch-1-jakubszuber.vercel.app/api/pin/?username=JakubSzuber&repo=Golden-DevOps&theme=gotham)](https://github.com/JakubSzuber/Golden-DevOps)
 [![Readme Card](https://github-readme-stats-git-patch-1-jakubszuber.vercel.app/api/pin/?username=JakubSzuber&repo=Local-Monuments-Website&theme=gotham)](https://github.com/JakubSzuber/Local-Monuments-Website)
 [![Readme Card](https://github-readme-stats-git-patch-1-jakubszuber.vercel.app/api/pin/?username=JakubSzuber&repo=Score-Counter-Game&theme=gotham)](https://github.com/JakubSzuber/Score-Counter-Game)
 [![Readme Card](https://github-readme-stats-git-patch-1-jakubszuber.vercel.app/api/pin/?username=JakubSzuber&repo=Animal-Hotels-Analysis&theme=gotham)](https://github.com/JakubSzuber/Animal-Hotels-Analysis)
