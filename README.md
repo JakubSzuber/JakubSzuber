@@ -70,7 +70,7 @@
 ## How can you contact me:
 - **My Gmail:** jszuber06@gmail.com
 - **Other:**  <a href="https://www.linkedin.com/in/jakub-szuber-06602521a/">
-<img align="center" alt="JakubSzuber's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a><a href="https://www.kaggle.com/jakubszuber">
+<img align="center" alt="JakubSzuber's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" /></a><a href="https://www.kaggle.com/jakubszuber">
 <img align="center" alt="JakubSzuber's Kaggle" width="22px" src="https://www.kaggle.com/static/images/site-logo.svg" /></a>
 
 ## My portfolio:
