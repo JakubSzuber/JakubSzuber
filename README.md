@@ -1,4 +1,4 @@
-# Hi, my name is Jakub Szuber - Python coder
+# Hi, my name is Jakub Szuber - DevOps enthusiast
 
 <!--TODO other options to use skillset images-->
 
@@ -54,7 +54,7 @@
 [<img align="center" alt="bash" width="36px" src="https://bashlogo.com/img/symbol/png/monochrome_light.png" />](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg#gh-dark-mode-only) <img align="center" alt="AWS" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"> <img align="center" alt="github actions" width="36px" src="https://avatars.githubusercontent.com/u/54465427?v=4"> <img align="center" alt="jenkins" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"> <img align="center" alt="terraform" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">  <img align="center" alt="Argo CD" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg"> <img align="center" alt="Helm Charts" width="36px" src="https://helm.sh/img/helm.svg">
 - I planning to learn: <img align="center" alt="prometheus" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"> <img align="center" alt="grafana" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg"> <img align="center" alt="Golang" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"> <img align="center" alt="ELK Stack" width="36px" src="https://cdn.worldvectorlogo.com/logos/elastic-stack.svg">ELK Stack <img align="center" alt="Vault" width="36px" src="https://sue.eu/wp-content/uploads/sites/6/2022/06/vault-hashicorp-logo-920x920-sue-v1.png"> Vault
 - I’m currently learning: <img align="center" alt="ansible" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
-- I’m currently working on: **Containerized web application ([Score-Counter-Game](https://github.com/JakubSzuber/Score-Counter-Game/tree/CustomTkinter-GUI))**
+- I’m currently working on: **Comprehensive project with implemented all modern DevOps functionalities ([Golden-DevOps](https://github.com/JakubSzuber/Golden-DevOps))**
 
 ![JakubSzuber's GitHub stats](https://github-readme-stats-git-patch-1-jakubszuber.vercel.app/api?username=JakubSzuber&show_icons=true&theme=gotham) 
 <!--to change the color to white: theme=default-->
@@ -78,3 +78,5 @@
 [![Readme Card](https://github-readme-stats-git-patch-1-jakubszuber.vercel.app/api/pin/?username=JakubSzuber&repo=Local-Monuments-Website&theme=gotham)](https://github.com/JakubSzuber/Local-Monuments-Website)
 [![Readme Card](https://github-readme-stats-git-patch-1-jakubszuber.vercel.app/api/pin/?username=JakubSzuber&repo=Score-Counter-Game&theme=gotham)](https://github.com/JakubSzuber/Score-Counter-Game)
 [![Readme Card](https://github-readme-stats-git-patch-1-jakubszuber.vercel.app/api/pin/?username=JakubSzuber&repo=Animal-Hotels-Analysis&theme=gotham)](https://github.com/JakubSzuber/Animal-Hotels-Analysis)
+[![Readme Card](https://github-readme-stats-git-patch-1-jakubszuber.vercel.app/api/pin/?username=JakubSzuber&repo=staz&theme=gotham)](https://github.com/JakubSzuber/staz)
+
