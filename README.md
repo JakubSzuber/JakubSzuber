@@ -56,7 +56,7 @@
 
 - I’m currently working on: **Comprehensive DevOps project ([Golden-DevOps](https://github.com/JakubSzuber/Golden-DevOps))**
 
-![JakubSzuber's GitHub stats](https://github-readme-stats-git-patch-1-jakubszuber.vercel.app/api?username=JakubSzuber&show_icons=true&theme=gotham) 
+![GitHub stats](https://github-readme-stats-git-patch-1-jakubszuber.vercel.app/api?username=JakubSzuber&show_icons=true&theme=gotham) 
 <!--to change the color to white: theme=default-->
 
 
