@@ -24,7 +24,6 @@
         <img align="center" height="45" width="60" alt="gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg#gh-dark-mode-only"/>
         <img align="center" height="45" width="60" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
         <img align="center" height="45" width="60" alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"> 
-        <img align="center" height="45" width="60" alt="jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   </div>
 </div>
 
